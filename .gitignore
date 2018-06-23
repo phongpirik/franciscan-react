@@ -9,3 +9,4 @@ yarn-error.log
 .env
 package-lock.json
 .idea
+public
